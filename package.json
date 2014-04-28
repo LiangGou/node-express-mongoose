@@ -15,7 +15,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "express": "latest",
+    "express": "3.4.x",
     "express-namespace": "latest",
     "mongoose": "latest",
     "mongoose-user": "latest",
